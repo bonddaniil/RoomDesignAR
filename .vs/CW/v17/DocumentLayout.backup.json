@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\MaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\GlobalMaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GlobalMaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\GalleryScroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GalleryScroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\FurniturePlacementManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FurniturePlacementManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\FilterText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FilterText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\DropdownMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DropdownMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\DeleteScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DeleteScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\ColorSliderToMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ColorSliderToMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\ButtonFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ButtonFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\AutoScaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AutoScaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CW\\Assets\\Scripts\\ApplyCustomMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ApplyCustomMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplyCustomMaterial.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\ApplyCustomMaterial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApplyCustomMaterial.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\ApplyCustomMaterial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApplyCustomMaterial.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:40:29.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoScaler.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\AutoScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoScaler.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\AutoScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:40:13.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonFilter.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\ButtonFilter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonFilter.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\ButtonFilter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:40:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorSliderToMaterial.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\ColorSliderToMaterial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorSliderToMaterial.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\ColorSliderToMaterial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorSliderToMaterial.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:44:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteScript.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\DeleteScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeleteScript.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\DeleteScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeleteScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:45:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalMaterialChanger.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\GlobalMaterialChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalMaterialChanger.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\GlobalMaterialChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalMaterialChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:48:01.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialChanger.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\MaterialChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MaterialChanger.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\MaterialChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MaterialChanger.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:49:41.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FurniturePlacementManager.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\FurniturePlacementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FurniturePlacementManager.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\FurniturePlacementManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FurniturePlacementManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:46:56.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GalleryScroll.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\GalleryScroll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GalleryScroll.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\GalleryScroll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GalleryScroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:47:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DropdownMenuController.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\DropdownMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DropdownMenuController.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\DropdownMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DropdownMenuController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:45:53.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterText.cs",
+              "DocumentMoniker": "D:\\CW\\Assets\\Scripts\\FilterText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FilterText.cs",
+              "ToolTip": "D:\\CW\\Assets\\Scripts\\FilterText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FilterText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:46:26.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

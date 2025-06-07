@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skimmia Japonica
+* source:	https://sketchfab.com/3d-models/skimmia-japonica-59e376e2d94741b7aea093e415a672cd
+* author:	Lassi Kaukonen (https://sketchfab.com/thesidekick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skimmia Japonica" (https://sketchfab.com/3d-models/skimmia-japonica-59e376e2d94741b7aea093e415a672cd) by Lassi Kaukonen (https://sketchfab.com/thesidekick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

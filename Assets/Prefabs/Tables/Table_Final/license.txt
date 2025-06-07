@@ -1,0 +1,8 @@
+Model Information:
+* title:	Table Final
+* source:	https://sketchfab.com/3d-models/table-final-2aea3b250bdf430f9731ade5fe970a77
+* author:	VR Bro (https://sketchfab.com/VR-Bro)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

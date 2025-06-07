@@ -1,0 +1,11 @@
+Model Information:
+* title:	Study Table
+* source:	https://sketchfab.com/3d-models/study-table-e61efec7fb1745d49579319c6cb10780
+* author:	cgmodeling (https://sketchfab.com/cgmodeling612)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Study Table" (https://sketchfab.com/3d-models/study-table-e61efec7fb1745d49579319c6cb10780) by cgmodeling (https://sketchfab.com/cgmodeling612) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

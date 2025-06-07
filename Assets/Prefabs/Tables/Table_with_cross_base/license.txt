@@ -1,0 +1,11 @@
+Model Information:
+* title:	Table with cross base
+* source:	https://sketchfab.com/3d-models/table-with-cross-base-16673eef9e954f07bf10fac11b3949b8
+* author:	Dimension Dazzle (https://sketchfab.com/Dimension_Dazzle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Table with cross base" (https://sketchfab.com/3d-models/table-with-cross-base-16673eef9e954f07bf10fac11b3949b8) by Dimension Dazzle (https://sketchfab.com/Dimension_Dazzle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

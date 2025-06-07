@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wood Accent Office Chair
+* source:	https://sketchfab.com/3d-models/wood-accent-office-chair-b55fa6b8535d4d648d628e81ff5a4f0d
+* author:	Nicolas Riley (https://sketchfab.com/headsethoncho)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wood Accent Office Chair" (https://sketchfab.com/3d-models/wood-accent-office-chair-b55fa6b8535d4d648d628e81ff5a4f0d) by Nicolas Riley (https://sketchfab.com/headsethoncho) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
